@@ -1,3 +1,4 @@
 {
-  "python.pythonPath": "/Users/aarongomez/opt/anaconda3/envs/ai-01/bin/python"
+  "python.pythonPath": "/Users/aarongomez/opt/anaconda3/envs/ai-01/bin/python",
+  "jupyter.jupyterServerType": "local"
 }

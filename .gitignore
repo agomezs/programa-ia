@@ -28,3 +28,6 @@
 
 # Environments
 .env
+
+# Others
+.DS_Store

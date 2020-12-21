@@ -1,0 +1,5 @@
+Ingrese a Kaggle.com y hagase una cuenta.
+Hagase un notebook para clasificar Cats vs Dogs con LOGISTIC REGRESSION ! (https://www.kaggle.com/c/dogs-vs-cats/data)
+Puede usar este articulo de Medium  para agarrar volados (https://medium.com/swlh/logistic-regression-for-image-classification-e15d0ae59ce9)
+La idea es que ud lo haga en kaggle y aprenda usar la plataforma. 
+Este ejercicio es opcional y no tiene valor en el curso. 

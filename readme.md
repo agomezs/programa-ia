@@ -16,3 +16,8 @@ sns.heatmap(df.corr(), square=True, cmap='RdYlGn')
 - Métricas de evaluación de modelos de clasificación.
 - Matriz de confusión y métricas asociadas.
 - Métricas AIC, BIC para selección de modelos.
+
+## S6
+- Conceptos de probabilidad.
+- Teorema de Bayes.
+- Clasificación mediante el modelo ingenuo de Bayes.

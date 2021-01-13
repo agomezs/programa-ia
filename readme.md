@@ -16,6 +16,7 @@ sns.heatmap(df.corr(), square=True, cmap='RdYlGn')
 - Métricas de evaluación de modelos de clasificación.
 - Matriz de confusión y métricas asociadas.
 - Métricas AIC, BIC para selección de modelos.
+- Use one hot encoding.
 
 ## S5
 - Regularizacion
@@ -31,3 +32,9 @@ sns.heatmap(df.corr(), square=True, cmap='RdYlGn')
 ### Entregables S6
 - Completar el Notebook #4
 - Este notebook consume tiempo, por favor iniciar cuanto antes para que puedan entregar el viernes. https://www.kaggle.com/c/santander-customer-transaction-prediction/overview
+
+## S7
+- Máquinas de soporte vectorial
+- Separación por márgenes
+- Kernels lineales, polinomiales y radiales
+- Introduccion a NLP

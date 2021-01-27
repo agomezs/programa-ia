@@ -51,3 +51,17 @@ conda install -c anaconda nltk
 - Complete el ejercicio de IMDB con SVM
 - complete el Notebook #6 Ham vs Spam
 - El link del ejercicio de Kaggle sobre tweets esta en el notebook #6.
+
+## S8
+- Modelo de regresión mediante árboles de decisión
+- Modelo de clasificación mediante árboles de clasificación
+- Bosques aleatorios
+
+### S8 - Plan de Acción individual
+
+- Ingrese a Kaggle y haga un notebook para https://www.kaggle.com/c/titanic 
+- Debe crear el notebook usando bosques aleatorios
+
+## S9 
+- Aprendizaje no supervisado con K-medias.
+- Reducción de la dimensionalidad con Análisis de Principal de Componentes.

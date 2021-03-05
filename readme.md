@@ -11,6 +11,10 @@ https://www.gapminder.org/data/
 
 sns.heatmap(df.corr(), square=True, cmap='RdYlGn')
 
+## Create a new environment
+
+`conda create -n ai-01 python=3.6`
+
 ## How to install
 conda install --file requirements.txt
 conda install -c anaconda nltk
@@ -65,3 +69,10 @@ conda install -c anaconda nltk
 ## S9 
 - Aprendizaje no supervisado con K-medias.
 - Reducción de la dimensionalidad con Análisis de Principal de Componentes.
+
+## S10
+- Deteccion de anomalias
+- Series temporales con Facebook Prophet
+- Uso de Pickle
+- Web Services de ML con Flask
+- Face Recognition con SVM y PCA

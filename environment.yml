@@ -1,0 +1,4 @@
+name: ai-01
+dependencies:
+  - python=3.6
+  - numpy

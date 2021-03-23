@@ -12,9 +12,14 @@
 - Gestión del ajuste del modelo mediante regularización.
 - Algoritmos de optimización para redes neuronales.
 
-## S3
+## S3 - CNN
 - Regularización
 - Regularización en CNN
 - Introducción a CNN
 - Introducción a Tensorboard
 - Introducción a NLP con Keras
+
+## S4 Transfer Learning
+- CNN Deep neural networks.
+- Available networks.
+- Transfer Learning.

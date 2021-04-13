@@ -23,3 +23,7 @@
 - CNN Deep neural networks.
 - Available networks.
 - Transfer Learning.
+
+## S5 RNNs.
+- Redes Neuronales Recurrentes para series de tiempo.
+- LSTM - GRU

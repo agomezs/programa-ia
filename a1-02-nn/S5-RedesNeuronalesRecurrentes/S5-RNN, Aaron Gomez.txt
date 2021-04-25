@@ -1,0 +1,5 @@
+11-Ejercicio-1-Prediccion-del-Clima-colab.ipynb
+https://colab.research.google.com/drive/1uxgV3gaD6PMn8jJDc5lc0kg3VeJiOHNz
+
+Bitcoin
+https://colab.research.google.com/drive/1wmfa5Uy3gVDc2Y_szhsMZGljuKKlorSM
